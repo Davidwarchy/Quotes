@@ -1,0 +1,11 @@
+{
+  "name": "quotes",
+  "version": "1.0.0",
+  "description": "utility for generating beautiful pictures of principles",
+  "main": "screenshot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "hexheager",
+  "license": "ISC"
+}

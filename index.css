@@ -1,0 +1,27 @@
+body {
+    background: white;
+    color: #012970;
+    font-family: system-ui;
+    text-transform: uppercase;
+    /* max-width: 500px; */
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    padding: 1rem;
+}
+
+h1 {
+    margin: 03rem 0;
+}
+
+img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    border: 0.2rem solid #b7d8ff;
+    margin: 0 0 1rem 0;
+}
